@@ -89,13 +89,13 @@ WITH EMOJI REPLACE
 Result (Image)
 ---
 
-<b>Without Emoji</b>
+<b>Without Emoji</b><br>
 
-![Without Emoji](https://barbarbar338.is-my.fun/f/P05wYO51.png)
+![Without Emoji](https://barbarbar338.is-my.fun/f/P05wYO51.png)<br>
 
-<b>With Emoji</b>
+<b>With Emoji</b><br>
 
-![With Emoji (Hidden)](https://barbarbar338.is-my.fun/f/0su2mrWM.png)
+![With Emoji (Hidden)](https://barbarbar338.is-my.fun/f/0su2mrWM.png)<br>
 ![With Emoji (Revealed)](https://barbarbar338.is-my.fun/f/m5Ln8l3v.png)
 
 [Contact Me For More Help](https://www.is-my.fun/ulas)
