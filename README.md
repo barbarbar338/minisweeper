@@ -88,9 +88,13 @@ WITH EMOJI REPLACE
 
 Result (Image)
 ---
+
 <b>Without Emoji</b>
+
 ![Without Emoji](https://barbarbar338.is-my.fun/f/P05wYO51.png)
+
 <b>With Emoji</b>
+
 ![With Emoji (Hidden)](https://barbarbar338.is-my.fun/f/0su2mrWM.png)
 ![With Emoji (Revealed)](https://barbarbar338.is-my.fun/f/m5Ln8l3v.png)
 
