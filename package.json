@@ -1,0 +1,32 @@
+{
+  "name": "minisweeper",
+  "version": "1.0.0",
+  "description": "MiniSweeper is a simple module that creates a grid data for you to play Minesweeper.",
+  "main": "MiniSweeper.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barbarbar338/minisweeper"
+  },
+  "keywords": [
+    "mine",
+    "sweeper",
+    "minesweeper",
+    "mini",
+    "minisweeper",
+    "grid",
+    "minefield",
+    "field",
+    "game",
+    "grid-data",
+    "grid-data-structure"
+  ],
+  "author": "Barış DEMİRCİ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barbarbar338/minisweeper/issues"
+  },
+  "homepage": "https://github.com/barbarbar338/minisweeper#readme"
+}

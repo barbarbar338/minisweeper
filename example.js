@@ -1,17 +1,3 @@
-MiniSweeper: An Easy-To-Use Database 
-======
-
-<p><b>MiniSweeper</b> is a simple module that creates a grid data for you to play Minesweeper.</p>
-
-
-<b>[NPM Page](https://www.npmjs.com/package/minisweeper) - [GITHUB Page](https://github.com/barbarbar338/minisweeper)</b>
--------
-
-Usage
-------------
-<p>Here is a simple but effective example!</p>
-
-```js
 /* MiniSweeper Packages */
 const MiniSweeper = require("minisweeper");
 
@@ -84,17 +70,3 @@ WITH EMOJI REPLACE
 [:two:,   :boom:,   :four:,  :four:, :boom:,  :two:],
 [:one:,   :one:,    :one:,   :one:,  :one:,   :one:],
 */
-```
-
-Result (Image)
----
-<b>Without Emoji</b>
-![Without Emoji](https://barbarbar338.is-my.fun/f/P05wYO51.png)
-<b>With Emoji</b>
-![With Emoji (Hidden)](https://barbarbar338.is-my.fun/f/0su2mrWM.png)
-![With Emoji (Revealed)](https://barbarbar338.is-my.fun/f/m5Ln8l3v.png)
-
-[Contact Me For More Help](https://www.is-my.fun/ulas)
--------------------
-
-\ ゜o゜)ノ
