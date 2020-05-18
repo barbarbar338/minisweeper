@@ -1,6 +1,6 @@
 {
   "name": "minisweeper",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "MiniSweeper is a simple module that creates a grid data for you to play Minesweeper.",
   "main": "MiniSweeper.js",
   "scripts": {

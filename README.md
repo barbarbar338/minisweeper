@@ -3,6 +3,8 @@ MiniSweeper: MineSweeper Grid Creator
 
 <p><b>MiniSweeper</b> is a simple module that creates a grid data for you to play Minesweeper.</p>
 
+<b>[Discord: https://discord.com/invite/BjEJFwh](https://discord.com/invite/BjEJFwh)</b>
+-------
 
 <b>[NPM Page](https://www.npmjs.com/package/minisweeper) - [GITHUB Page](https://github.com/barbarbar338/minisweeper)</b>
 -------

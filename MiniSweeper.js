@@ -2,7 +2,7 @@ exports.createGrid = (row_count, col_count) => {
   try {
     
     //check for arguments
-    if (isNaN(row_count) || isNaN(col_count)) throw new Error("[MiniSweeper] row count / column count must be a number");
+    if (isNaN(row_count) || isNaN(col_count)) throw new Error("[MiniSweeper] row count / column count must be a number \n\nFOR MORE ADVANCED HELP: https://discord.com/invite/BjEJFwh");
     
     //create grid
     let arr = [];
@@ -15,7 +15,7 @@ exports.createGrid = (row_count, col_count) => {
     }
     return arr;
   } catch (err) {
-    throw new Error("[MiniSweeper] " + err);
+    throw new Error("[MiniSweeper] " + err + " \n\nFOR MORE ADVANCED HELP: https://discord.com/invite/BjEJFwh");
   }
 }
 
@@ -23,8 +23,8 @@ exports.replaceMine = (object, grid) => {
   try {
     
     //check for arguments
-    if (typeof object != "object") throw new Error("[MiniSweeper] emoji group must be an object");
-    if (!Array.isArray(grid)) throw new Error("[MiniSweeper] grid must be an array (MiniSweeper Grid)");
+    if (typeof object != "object") throw new Error("[MiniSweeper] emoji group must be an object \n\nFOR MORE ADVANCED HELP: https://discord.com/invite/BjEJFwh");
+    if (!Array.isArray(grid)) throw new Error("[MiniSweeper] grid must be an array (MiniSweeper Grid) \n\nFOR MORE ADVANCED HELP: https://discord.com/invite/BjEJFwh");
     
     // replace mines with specified string
     for (var _x = 0; _x < grid[0].length; _x++) {
@@ -34,7 +34,7 @@ exports.replaceMine = (object, grid) => {
     }
     return grid; 
   } catch (err) {
-    throw new Error("[MiniSweeper] " + err);
+    throw new Error("[MiniSweeper] " + err + " \n\nFOR MORE ADVANCED HELP: https://discord.com/invite/BjEJFwh");
   }
 }
 
@@ -42,9 +42,9 @@ exports.addMine = (mine_count, grid) => {
   try {
     
     //check for arguments
-    if (isNaN(mine_count)) throw new Error("[MiniSweeper] mine count must be a number");
-    if (!Array.isArray(grid)) throw new Error("[MiniSweeper] grid must be an array (MiniSweeper Grid)");
-    if (Number(grid[0].length) * Number(grid.length) <= mine_count) throw new Error("[MiniSweeper] MİNE COUNT must be a number less than multiply of the row number and column number");
+    if (isNaN(mine_count)) throw new Error("[MiniSweeper] mine count must be a number \n\nFOR MORE ADVANCED HELP: https://discord.com/invite/BjEJFwh");
+    if (!Array.isArray(grid)) throw new Error("[MiniSweeper] grid must be an array (MiniSweeper Grid) \n\nFOR MORE ADVANCED HELP: https://discord.com/invite/BjEJFwh");
+    if (Number(grid[0].length) * Number(grid.length) <= mine_count) throw new Error("[MiniSweeper] MİNE COUNT must be a number less than multiply of the row number and column number \n\nFOR MORE ADVANCED HELP: https://discord.com/invite/BjEJFwh");
     
     // add mines to grid
     for (var i = 0; i < mine_count; i++) {
@@ -84,6 +84,6 @@ exports.addMine = (mine_count, grid) => {
     }
     return grid;
   } catch (err) {
-    throw new Error("[MiniSweeper] " + err);
+    throw new Error("[MiniSweeper] " + err + " \n\nFOR MORE ADVANCED HELP: https://discord.com/invite/BjEJFwh");
   }
 }
