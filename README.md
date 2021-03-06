@@ -1,6 +1,6 @@
-MiniSweeper: MineSweeper Grid Creator
+(DEPRECATED) MiniSweeper: MineSweeper Grid Creator
 ======
-
+> (DEPRECATED) has no functionality. ~barbarbar338
 <p><b>MiniSweeper</b> is a simple module that creates a grid data for you to play Minesweeper.</p>
 
 <b>[Discord: https://discord.com/invite/BjEJFwh](https://discord.com/invite/BjEJFwh)</b>
